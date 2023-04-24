@@ -25,7 +25,7 @@ Files:
 A single jupyter notebook is used in this project utilizing python, with comments for to explain each step of the analysis.
 
 
-Medium blog Post:
+Medium blog Post: https://medium.com/@gcastor45/complaining-about-data-85ec46dde008
 
 
 Acknowledgements and Licensing:
